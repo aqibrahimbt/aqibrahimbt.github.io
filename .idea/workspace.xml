@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="417d9072-4dc1-4de2-8c48-3339ccdf06f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/Page-1.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/Page-1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/dddd-min.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/dddd-min.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +53,19 @@
       <recent name="$PROJECT_DIR$/new" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -61,7 +75,8 @@
       <option name="presentableId" value="Default" />
       <updated>1601314228964</updated>
       <workItem from="1601314230267" duration="9333000" />
-      <workItem from="1601550758834" duration="537000" />
+      <workItem from="1601550758834" duration="590000" />
+      <workItem from="1601889903938" duration="990000" />
     </task>
     <servers />
   </component>
@@ -78,12 +93,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="240" y="65" key="#Deployment" timestamp="1601322647306">
+    <state x="240" y="65" key="#Deployment" timestamp="1601890052469">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="240" y="65" key="#Deployment/0.0.1280.800@0.0.1280.800" timestamp="1601322647306" />
+    <state x="240" y="65" key="#Deployment/0.0.1280.800@0.0.1280.800" timestamp="1601890052469" />
     <state x="224" y="52" key="#SSH_Configurations" timestamp="1601314334865">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
