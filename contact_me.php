@@ -17,10 +17,15 @@ $message = strip_tags(htmlspecialchars($_POST['message']));
    
 // Create the email and send the message
 $to = 'kraons.inc@gmail.com';
-$email_subject = "Website Contact Form:  $name";
+$email_subject = "Website Contact Form Kraons:  $name";
 $email_body = "You have received a new message from your website contact form.\n\n"."Here are the details:\n\nName: $name\n\nEmail: $email_address\n\nPhone: $phone\n\nMessage:\n$message";
 $headers = "From: kraons.inc@gmail.com\n";
 $headers .= "Reply-To: $email_address";   
-mail($to,$email_subject,$email_body,$headers);
-echo true;
+if (mail($to,$email_subject,$email_body,$headers))
+{
+   echo "yaaaay";
+}else{
+   echo "Error: Message not accepted";
+};
+
 ?>
