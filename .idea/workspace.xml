@@ -21,8 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="417d9072-4dc1-4de2-8c48-3339ccdf06f6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/Page-1.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/Page-1.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/dddd-min.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/dddd-min.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/nicepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/nicepage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,19 +53,6 @@
       <recent name="$PROJECT_DIR$/new" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -76,7 +63,9 @@
       <updated>1601314228964</updated>
       <workItem from="1601314230267" duration="9333000" />
       <workItem from="1601550758834" duration="590000" />
-      <workItem from="1601889903938" duration="990000" />
+      <workItem from="1601889903938" duration="1593000" />
+      <workItem from="1601926895274" duration="237000" />
+      <workItem from="1601944077886" duration="1778000" />
     </task>
     <servers />
   </component>
@@ -104,10 +93,10 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="224" y="52" key="#SSH_Configurations/0.0.1280.800@0.0.1280.800" timestamp="1601314334865" />
-    <state x="338" y="32" width="604" height="735" key="find.popup" timestamp="1601323951798">
+    <state x="338" y="32" width="604" height="735" key="find.popup" timestamp="1601892793369">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="338" y="32" width="604" height="735" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1601323951798" />
+    <state x="338" y="32" width="604" height="735" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1601892793369" />
     <state x="547" y="137" key="ftp.server.browser" timestamp="1601314386812">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
